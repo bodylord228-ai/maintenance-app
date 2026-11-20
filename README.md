@@ -89,4 +89,4 @@ service cloud.firestore {
 - إشعارات فورية (Firebase Cloud Messaging) عند وصول طلب جديد لتطبيقك، أو عند تغيّر حالة الطلب للعميل.
 - تسجيل دخول العملاء (Firebase Auth) لربط كل طلب بحساب.
 - عرض الموقع على خريطة فعلية (google_maps_flutter) بدل رابط خارجي فقط.
-apply 
+flutter run 
